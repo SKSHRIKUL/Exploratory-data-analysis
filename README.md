@@ -108,7 +108,3 @@ jupyter notebook EDA.ipynb
 ## License / Use
 For academic use as part of Assessment Task 1 unless otherwise specified by your institution’s policy.
 
-## Contact
-If you need help running the notebook or tailoring the analysis:
-- Maintainer: [Your Name]
-- Email: [your.email@example.com]
